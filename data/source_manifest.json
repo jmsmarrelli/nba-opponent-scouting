@@ -1,0 +1,19 @@
+{
+  "commit": "e829d4678be1e075f99e5d41a1c5f97089be446b",
+  "files": [
+    {
+      "name": "nbastatsv3_2025.tar.xz",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/nbastatsv3_2025.tar.xz",
+      "bytes": 8967164,
+      "sha256": "790a01ea3f0b2f8335d96bd687e21501551fc8cdea3ada83457ee3208a940671",
+      "git_blob": "a9a28fd7e731f278cf332d919163790120860ab6"
+    },
+    {
+      "name": "shotdetail_2025.tar.xz",
+      "url": "https://raw.githubusercontent.com/shufinskiy/nba_data/e829d4678be1e075f99e5d41a1c5f97089be446b/datasets/shotdetail_2025.tar.xz",
+      "bytes": 2825192,
+      "sha256": "dcb6c29edda8463132ab62f63118b5cee80d751bcbee9ad98fa38ebe12e6d33c",
+      "git_blob": "ce205934680c8c9b7ccc518385388779dbc0489d"
+    }
+  ]
+}
