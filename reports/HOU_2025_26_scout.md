@@ -19,7 +19,7 @@ Joseph Smarrelli · September 2026
 
 **Separate the shot from the second chance.** A possession with several misses can end in a score. Review offensive-rebound sequences alongside the field-goal location profile.
 
-**Compare both sides of the floor.** Use the offense and defense panels to define separate review questions. These descriptive rates do not establish the value of a different scheme.
+**Check outlet protection.** For each offensive-rebound sequence, tag who retreats and whether the next possession creates an early advantage. The team rebound rate does not identify which defender missed an assignment.
 
 ## Definitions and limits
 
