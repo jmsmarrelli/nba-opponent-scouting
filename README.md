@@ -26,3 +26,7 @@ Offensive-rebound percentage uses player offensive rebounds divided by those reb
 The defense panel summarizes opponent offense. Location figures describe attempts, not defensive positioning, openness or shot-clock behavior. Review priorities are questions for film work, not coded film observations or tested coverage recommendations. Current personnel need a separate check.
 
 See [METHODS.md](METHODS.md) and [VALIDATION.md](VALIDATION.md) for source definitions and completed checks.
+
+## Current review
+
+See [current validation](VALIDATION_CURRENT.md) for executed checks and unresolved rebuild requirements, and [provenance](PROVENANCE.md) for AI assistance. [Portfolio navigation](https://github.com/jmsmarrelli/basketball-analytics).
